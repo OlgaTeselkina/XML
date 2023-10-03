@@ -1,1 +1,12 @@
-
+<?xml version="1.0"?>
+<BUG_REPORT>
+  <SUMMARY>Extra column on the page</SUMMARY>
+  <PROJECT>Web</PROJECT>
+  <ENVIRONMENT>test v.7-114</ENVIRONMENT>
+  <SEVERITY>Minor</SEVERITY>
+  <PRIORITY>Low</PRIORITY>
+  <DESCRIPTION>There is an extra column on the page List of users</DESCRIPTION>
+  <STEPSTOREPRODUCE>1. Navigate to the page www.web.com", "2. Nsvigate to the page List of users</STEPSTOREPRODUCE>
+  <EXPECTEDRESULT>The are 4 columns on the page</EXPECTEDRESULT>
+  <ACTUALRESULT>There are 5 columns on the page, the second ine is duplicated</ACTUALRESULT>
+</BUG_REPORT>
